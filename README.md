@@ -2,8 +2,9 @@
 *这是我用来存放学习任务和代码的仓库，同时包含我喜欢的VTB介绍~*
 
 ## 任务一：Python 环境与 Jupyter 初体验
-### 1. 虚拟环境截图
-![虚拟环境截图]([https://github.com/huangjiayi1488-star/korone1/blob/main/59e1e87d0fc03703734feab6c1cf3deb.png])
+### 1.1 虚拟环境截图
+<img src="https://github.com/huangjiayi1488-star/korone1/blob/main/59e1e87d0fc03703734feab6c1cf3deb.png" width="200">
+
 ### 2. 最喜欢的虚拟主播介绍
 姓名：**戌神沁音**
 职业：虚拟主播（VTB）

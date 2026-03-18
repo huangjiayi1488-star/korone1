@@ -10,7 +10,7 @@ korone1
 # 这是我的第一个 Python 代码示例
 print("Hello, Jupyter!")
 
-3.介绍我最喜欢的vtb
+3. 介绍我最喜欢的vtb
 基础档案
 - 名字是戌神沁音
 - 所属团体：Hololive

@@ -1,25 +1,27 @@
-korone1
-*这是我用来存放学习任务和代码的仓库*
+# 科罗内1
+*这是我用来存放学习任务和代码的仓库，同时包含我的VTB自我介绍~*
 
-任务一：Python 环境与 Jupyter 初体验
-1. 虚拟环境截图
+## 任务一：Python 环境与 Jupyter 初体验
+### 1. 虚拟环境截图
 ![虚拟环境截图](https://github.com/huangjiayi1488-star/korone1/blob/main/a2d5fddfc5ef85c3b66d799b73e0d9d5.png)
 
-2. 核心代码示例
+### 2. 最喜欢的虚拟主播介绍
+姓名：戌神沁音
+职业：虚拟主播（VTB）
+所属团体：Hololive
+代表色：绿色
+直播内容：游戏直播、唱歌、日常聊天
+
+### 3. 核心代码示例
 ```python
 # 这是我的第一个 Python 代码示例
 print("Hello, Jupyter!")
 
-3. 介绍我最喜欢的vtb
-基础档案
-- 名字是戌神沁音
-- 所属团体：Hololive
-- 代表色：绿色
-- 爱好：打游戏、唱歌、和观众互动
-- 座右铭
-> 「只要开心就好！」
-
-### 我的打招呼代码
-```python
-print("大家好，我是科罗内！很高兴认识你~")
-- 仓库地址：https://github.com/huangjiayi1488-star/korone1
+# 矩阵运算示例
+import numpy as np
+a = np.array([[1,2],[3,4]])
+b = np.array([[5,6],[7,8]])
+print("矩阵相加：")
+print(a + b)
+print("矩阵相乘：")
+print(a @ b)

@@ -4,7 +4,7 @@
 ---
 
 ## 角色形象
-<img src="https://github.com/huangjiayi1488-star/korone1/blob/main/戌神沁音.jpg" width="300" alt="戌神沁音角色立绘">
+<img src="https://github.com/huangjiayi1488-star/korone1/blob/main/戌神沁音.jpg" width="200" alt="戌神沁音角色立绘">
 
 ## 基础档案
 ### 外貌特征

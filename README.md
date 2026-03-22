@@ -5,7 +5,7 @@
 
 ## 任务一：Python 环境与 Jupyter 初体验
 ### 1.1 虚拟环境截图
-<img src="https://github.com/huangjiayi1488-star/korone1/blob/main/59e1e87d0fc03703734feab6c1cf3deb.png" width="200">
+<img src="https://github.com/huangjiayi1488-star/korone1/blob/main/虚拟环境截图.png" width="200">
 
 ### 1.2 最喜欢的虚拟主播介绍
 大家好，我是 **戌神沁音**，我的身份是 *虚拟主播（VTB）*。
